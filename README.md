@@ -63,7 +63,7 @@ px.scatter(dados, x="ProximidadeTurismo", y="Preco", trendline='ols')
 
 ---
 
-# 🔬 Pairplot das Variáveis
+#  Pairplot das Variáveis
 
 Para visualizar a relação entre as variáveis e o preço:
 
@@ -156,7 +156,7 @@ O modelo com **todas as variáveis** apresentou o melhor desempenho.
 
 
 
-# 📚 Conceitos Aplicados
+#  Conceitos Aplicados
 
 - Análise exploratória de dados
 - Correlação
@@ -176,6 +176,6 @@ As variáveis **estrelas, proximidade de pontos turísticos e capacidade** mostr
 
 
 
-# 🎓 Projeto desenvolvido durante
+#  Projeto desenvolvido durante
 
 Curso de **Machine Learning / Regressão Linear — Alura**
